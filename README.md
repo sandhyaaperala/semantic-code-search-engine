@@ -64,7 +64,19 @@ streamlit run app.py
 
 ## Screenshots
 
-Add screenshots here after uploading them to the repository.
+## Screenshots
+
+### Home Page
+
+![Home Page](images/home.png)
+
+### Authentication Search
+
+![Authentication Search](images/auth-search.png)
+
+### Database Search
+
+![Database Search](images/database-search.png)
 
 ## Future Improvements
 
