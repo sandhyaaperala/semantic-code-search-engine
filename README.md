@@ -64,8 +64,6 @@ streamlit run app.py
 
 ## Screenshots
 
-## Screenshots
-
 ### Home Page
 
 ![Home Page](images/home.png)
